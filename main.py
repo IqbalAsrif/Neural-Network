@@ -1,5 +1,6 @@
 import src.mnist_loader as mnist_loader
-import src.network_ver1 as network
+# import src.network_ver1 as network
+import src.network_ver2 as network
 import os
 
 print("Current working directory:", os.getcwd())
